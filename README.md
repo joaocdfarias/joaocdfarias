@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1>João Carlos</h1>
+> Desenvolvedor Web e UI Designer
 
-<!--
-**joaocdfarias/joaocdfarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Quais são minhas habilidades?</h3>
 
-Here are some ideas to get you started:
+> JavaScript ES6+ <br>
+> CSS <br>
+> Bootstrap <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Onde você pode me encontrar?<h3>
+<ul>
+  <li><a href="https://www.linkedin.com/in/joaocdfarias/">LinkedIn</a></li>
+  <li><a href="https://www.behance.net/joaocdfarias/">Behance</a></li>
+</ul>
+
+<h4>Entre em contato também por email: <a href="mailto:joaocdfarias@protonmail.com">joaocdfarias@protonmail.com</a></h4>
