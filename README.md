@@ -15,4 +15,4 @@
   <li><a href="https://www.behance.net/joaocdfarias/">Behance</a></li>
 </ul>
 
-<h4>Entre em contato também por email: <a href="mailto:joaocdfarias@protonmail.com">joaocdfarias@protonmail.com</a></h4>
+<h4>Entre em contato também por email: <a href="mailto:joaocdfariass@gmail.com">joaocdfariass@gmail.com</a></h4>
