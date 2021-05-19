@@ -1,6 +1,7 @@
 <h1>João Carlos</h1>
 
 > Desenvolvedor Frontend e UI Designer
+> Trabalhando atualmente na Sanar
 
 <h3>Quais são minhas habilidades?</h3>
 
