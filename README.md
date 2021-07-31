@@ -13,7 +13,7 @@
 <h3>Onde você pode me encontrar:<h3>
 <ul>
   <li><a href="https://www.linkedin.com/in/joaocdfarias/">LinkedIn</a></li>
-  <li><a href="https://www.behance.net/joaocdfarias/">Behance</a></li>
+  <!-- <li><a href="https://www.behance.net/joaocdfarias/">Behance</a></li> -->
 </ul>
 
 <h4>Entre em contato também por email: <a href="mailto:joaocdfariass@gmail.com">joaocdfariass@gmail.com</a></h4>
