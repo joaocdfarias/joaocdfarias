@@ -13,6 +13,8 @@
 <h3>Onde você pode me encontrar:<h3>
 <ul>
   <li><a href="https://www.linkedin.com/in/joaocdfarias/">LinkedIn</a></li>
+  <li><a href="https://twitter.com/joaocdfarias">Twitter</a></li>
+  <li><a href="https://gitlab.com/joaocdfarias">GitLab</a></li>
   <!-- <li><a href="https://www.behance.net/joaocdfarias/">Behance</a></li> -->
 </ul>
 
