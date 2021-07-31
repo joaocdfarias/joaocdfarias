@@ -1,7 +1,7 @@
 <h1>João Carlos</h1>
 
-> Desenvolvedor Frontend <br>
-> Trabalhando como Analista de Produto e Plataforma na Sanar
+> 👨‍💻 Desenvolvedor Frontend <br>
+> 📱 Trabalhando como Analista de Produto e Plataforma na Sanar
 
 <h3>Quais são minhas habilidades?</h3>
 
