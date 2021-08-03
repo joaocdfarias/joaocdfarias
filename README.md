@@ -19,7 +19,6 @@
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-
 <img src="http://img.shields.io/badge/-NextJS-black?style=flat&logo=vercel&logoColor=white">
 
 ### Você pode me encontrar em:
