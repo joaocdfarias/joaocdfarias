@@ -2,9 +2,8 @@
 
 ### Sou desenvolvedor front-end, apaixonado por tecnologia
 
-- 💼 Atualmente trabalho como Analista de Produto e Plataforma na [Sanar](https://www.sanarmed.com/)
-- 👨‍🎓 Tenho interesse em aprender de tudo
-- 👨‍💻 Pretendo contribuir cada vez mais para o Open-source
+- 💼 Desenvolvedor Front-end na [Sanar](https://www.sanarmed.com/)
+- 👨‍🎓 Meus principal interesse é em programação web (front e back end)
 
 ### Technologias que utilizo:
 
