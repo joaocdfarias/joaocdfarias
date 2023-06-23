@@ -7,13 +7,7 @@
 
 ### Technologias que utilizo:
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square">
-<img src="https://img.shields.io/badge/-SASS-cc6699?style=flat&logo=sass&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-ExpressJS-787878?style=flat">
-<img src="https://img.shields.io/badge/-NodeJS-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="http://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="http://img.shields.io/badge/-NextJS-black?style=flat&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"> <img src="https://img.shields.io/badge/-SASS-cc6699?style=flat&logo=sass&logoColor=ffffff"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-ExpressJS-787878?style=flat"> <img src="https://img.shields.io/badge/-NodeJS-3C873A?style=flat&logo=Node.js&logoColor=white"> <img src="http://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> <img src="http://img.shields.io/badge/-NextJS-black?style=flat&logo=vercel&logoColor=white">
 
 ### Você pode me encontrar em:
 
