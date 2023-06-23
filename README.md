@@ -3,7 +3,7 @@
 ### Sou desenvolvedor front-end, apaixonado por tecnologia
 
 - 💼 Desenvolvedor Front-end na [Sanar](https://www.sanarmed.com/)
-- 👨‍🎓 Meu principal interesse é em programação web (front e back end)
+- 👨‍🎓 Meu principal interesse é em desenvolvimento web (front e back end)
 
 ### Technologias que utilizo:
 
@@ -29,5 +29,3 @@
 [linkedin]: https://www.linkedin.com/in/joaocdfarias
 
 <br />
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaocdfarias&show_icons=true&hide_border=false)
