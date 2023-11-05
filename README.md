@@ -19,6 +19,6 @@
 <h3>You can find me at:</h3>
 
 <div style="display: flex; gap: 4px;">
-    <a href="https://www.twitter.com/joaocdfarias"><img align="left" alt="Twitter/X" style="margin-right: 4px" src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/joaocdfarias"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+    <a href="https://www.twitter.com/joaocdfarias"><img alt="Twitter/X" src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/joaocdfarias"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
 </div>
