@@ -1,24 +1,18 @@
-# Hello, my name is <a href="https://joaocdfarias.github.io/">João Carlos</a> — Welcome! 👋
+# Hello, my name is [João Carlos](https://joaocdfarias.github.io/) — Welcome! 👋
 
- <h2>I'm a frontend developer, currently working at <a href="https://www.sanar.com/">Sanar</a>.</h2>
+## I'm a frontend developer, currently working at [Sanar](https://www.sanar.com/).
 
-<ul>
-    <li>👨‍🎓 My primarys interest are in frontend and backend development </li>
-</ul>
+- 👨‍🎓 My primary interests are in frontend and backend development
 
-<h3>My stack:</h3>
+### My stack:
 
-<div style="display: flex; gap: 4px;">
-    <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white">
-    <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white">
-    <img src="https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white">
-    <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
-</div>
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-<h3>You can find me at:</h3>
+### You can find me at:
 
-<div style="display: flex; gap: 4px;">
-    <a href="https://www.twitter.com/joaocdfarias"><img alt="Twitter/X" src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/joaocdfarias"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
-</div>
+[![Twitter/X](https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/joaocdfarias)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/joaocdfarias)
