@@ -1,6 +1,6 @@
-<h1>Hello, my name is <a href="https://joaocdfarias.github.io/">João Carlos</a> — Welcome! 👋</h1>
+ <h1>Hello, my name is <a href="https://joaocdfarias.github.io/">João Carlos</a> — Welcome! 👋</h1>
 
-<h2>I'm a frontend developer, currently working at <a href="https://www.sanar.com/">Sanar</a>.</h2>
+ <h2>I'm a frontend developer, currently working at <a href="https://www.sanar.com/">Sanar</a>.</h2>
 
 <ul>
     <li>👨‍🎓 My primarys interest are in frontend and backend development </li>
