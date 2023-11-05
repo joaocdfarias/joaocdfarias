@@ -1,4 +1,4 @@
-Hello, my name is <a href="https://joaocdfarias.github.io/">João Carlos</a> — Welcome! 👋
+# Hello, my name is <a href="https://joaocdfarias.github.io/">João Carlos</a> — Welcome! 👋
 
  <h2>I'm a frontend developer, currently working at <a href="https://www.sanar.com/">Sanar</a>.</h2>
 
