@@ -1,18 +1,22 @@
-## Olá, meu nome é [João Carlos](https://joaocdfarias.github.io/) — Bem-vindo(a) ao meu perfil 👋
+# Hello, my name is [João Carlos](https://joaocdfarias.github.io/) — Welcome! 👋
 
-### Sou desenvolvedor front-end, apaixonado por tecnologia
+## I'm a frontend developer, currently working at [Sanar](https://www.sanar.com/).
 
-- 💼 Desenvolvedor Front-end na [Sanar](https://www.sanarmed.com/)
-- 👨‍🎓 Meu principal interesse é em desenvolvimento web (front e back end)
+- 👨‍🎓 My primarys interest are in frontend and backend development 
 
-### Technologias que utilizo:
+## My stack:
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"> <img src="https://img.shields.io/badge/-SASS-cc6699?style=flat&logo=sass&logoColor=ffffff"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-ExpressJS-787878?style=flat"> <img src="https://img.shields.io/badge/-NodeJS-3C873A?style=flat&logo=Node.js&logoColor=white"> <img src="http://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> <img src="http://img.shields.io/badge/-NextJS-black?style=flat&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
+<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white">
+<img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
 
-### Você pode me encontrar em:
 
-[<img align="left" alt="João | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="João | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## You can find me at:
+
+[<img align="left" alt="Twitter/X" style="margin-right: 4px" src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" />][twitter]
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />][linkedin]
 
 <br />
 
