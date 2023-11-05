@@ -1,7 +1,8 @@
 # Hello, my name is [João Carlos](https://joaocdfarias.github.io/) — Welcome! 👋
 
-## I'm a frontend developer, currently working at [Sanar](https://www.sanar.com/).
+## I'm a frontend developer
 
+- 💻 Currently working at [Sanar](https://www.sanar.com/).
 - 👨‍🎓 My primary interests are in frontend and backend development
 
 ### My stack:
