@@ -1,4 +1,4 @@
-# Hello, my name is [João Carlos](https://joaocdfarias.github.io/) — Welcome! 👋
+# Hello, my name is [João Farias](https://joaocdfarias.github.io/) — Welcome! 👋
 
 ## I'm a Software Engineer
 
