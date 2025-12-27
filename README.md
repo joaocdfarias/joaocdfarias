@@ -5,9 +5,6 @@
 - 💻 Currently working at [Sanar](https://www.sanar.com/).
 - 👨‍🎓 My primary interests are in web development
 
-## Commit Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=joaocdfarias)](https://git.io/streak-stats)
-
 ### My stack:
 
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
