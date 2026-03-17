@@ -2,8 +2,8 @@
 
 ## I'm a Software Engineer
 
-- 💻 Currently working at [Sanar](https://www.sanar.com/).
-- 👨‍🎓 My primary interests are in web development
+- 💻 Currently I`m open to work!
+- 👨‍🎓 My primary interests are in Software Engineering and Software Architecture
 
 ### My stack:
 
