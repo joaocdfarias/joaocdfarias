@@ -1,9 +1,10 @@
-# Hello, my name is [João Farias](https://joaocdfarias.github.io/) — Welcome! 👋
+# Hi! I'm [João Farias](https://joaocdfarias.github.io/) 👋
 
-## I'm a Software Engineer
+## I'm a Software Engineer based in Salvador, Brazil. And I've been developing for about 5 years. Some of my skills include: React, TypeScript, Node.js, NestJS.
 
-- 💻 Currently I`m open to work!
+- 💻 I'm open to work!
 - 👨‍🎓 My primary interests are in Software Engineering and Software Architecture
+- 🐳 I like understanding a little bit of everything, from Devops/SRE (Docker, K8S, Terraform) to native mobile development (Swift and Kotlin) 
 
 ### My stack:
 
