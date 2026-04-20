@@ -4,7 +4,7 @@ I'm a Software Engineer based in Salvador, Brazil. And I've been developing for 
 
 - 💻 I'm open to work!
 - 👨‍🎓 My primary interests are in Software Engineering and Software Architecture
-- 🐳 I like understanding a little bit of everything, from Devops/SRE (Docker, K8S, Terraform) to native mobile development (Swift and Kotlin) 
+- 🐳 I like understanding a little bit of everything, from DevOps/SRE (Docker, K8S, Terraform) to native mobile development (Swift and Kotlin) 
 
 ### My stack:
 
